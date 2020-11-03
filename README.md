@@ -1,5 +1,5 @@
 ### Now I'm working on...
-- [x] [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/)
+- [x] [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/) LB: 0.01852
 - [x] Daily [AtCoder](https://kenkoooo.com/atcoder/#/user/NoKnowledgeGG)
 
 
