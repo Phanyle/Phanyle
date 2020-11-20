@@ -3,6 +3,7 @@
 - [x] Daily [AtCoder](https://kenkoooo.com/atcoder/#/user/NoKnowledgeGG)
 - [x] [Rock, Paper, Scissors](https://www.kaggle.com/c/rock-paper-scissors/) LB : 1000　± 100
 - [x] [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment/) LB : -1
+- [x] [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/) LB : 
 
 
 
