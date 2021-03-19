@@ -6,8 +6,8 @@
 - [x] Daily [AtCoder](https://kenkoooo.com/atcoder/#/user/NoKnowledgeGG) 🤔 Green ( Highest : 926 )
 - [ ] [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment/) LB : -1
 - [x] [Tabular Playground Series - Mar 2021](https://www.kaggle.com/c/tabular-playground-series-mar-2021) (622/975) Top 64% not grow up with tabular...🤔
-- [ ] English Grammer ~ Unit121
-- [ ] 統計学 ~ 300p
+- [x] English Grammer ~ Unit121
+- [x] 統計学 ~ 300p
 
 < End >
 - [x] [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/) PB:0.01638 (1519/4373) Top35%
