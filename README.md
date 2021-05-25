@@ -3,13 +3,17 @@
 - [x] [Phanyle's Ark](https://noknowledgegg.pythonanywhere.com/)
 
 < Now Task >
+- [ ] 研究 Anomaly Detection
+- [ ] Anomaly or Clean Classifier
+- [ ] Certain Location Detect
+- [ ] TOEIC
+
+< End >
+- [x] English Grammer ~ Unit121
+- [x] 統計学 ~ 300p
 - [x] Daily [AtCoder](https://kenkoooo.com/atcoder/#/user/NoKnowledgeGG) 🤔 Green ( Highest : 926 )
 - [ ] [Prostate cANcer graDe Assessment (PANDA) Challenge](https://www.kaggle.com/c/prostate-cancer-grade-assessment/) LB : -1
 - [x] [Tabular Playground Series - Mar 2021](https://www.kaggle.com/c/tabular-playground-series-mar-2021) (622/975) Top 64% not grow up with tabular...🤔
-- [x] English Grammer ~ Unit121
-- [x] 統計学 ~ 300p
-
-< End >
 - [x] [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/) PB:0.01638 (1519/4373) Top35%
 - [x] [JR東日本 列車運行予測](https://signate.jp/competitions/363/leaderboard) LB : 1.2227198 Not Predictional Model
 - [x] [Rock, Paper, Scissors](https://www.kaggle.com/c/rock-paper-scissors/) LB : 800　± 100 (243/1663) Top15%
