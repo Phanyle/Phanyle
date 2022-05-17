@@ -3,9 +3,7 @@
 - [x] [Phanyle's Ark](https://noknowledgegg.pythonanywhere.com/)
 
 < Now Task >
-- [ ] 研究 Anomaly Detection
-- [ ] Anomaly or Clean Classifier
-- [ ] Certain Location Detect
+- [ ] React ... 
 - [ ] TOEIC
 
 < End >
